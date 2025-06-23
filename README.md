@@ -193,9 +193,4 @@ Guddu Kumar
 
 
 
-References
-Journal of Human Resources, vol. 12, no. 4, 20XX, pp. 211-225.
-IEEE Research Paper: https://ieeexplore.ieee.org/document/9424812
-React.js Documentation: https://reactjs.org/docs/getting-started.html
-MongoDB Documentation: https://docs.mongodb.com/
-Node.js Documentation: https://nodejs.org/en/docs/
+
